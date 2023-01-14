@@ -1,0 +1,10 @@
+{
+  "projectName": "wbms",
+  "meta": {
+    "type": "backend"
+  },
+  "backend": {
+    "platform": "php7.3"
+  },
+  "hash": "1bd31ab8"
+}
